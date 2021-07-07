@@ -11,7 +11,7 @@ resources:
       name: gopinathp1978ms/PowerAppsTestAutomation
       ref: master
       # Name of the GitHub OAuth ADO Service Connection
-      endpoint: github.com_gopinathp1978ms
+      endpoint: PPAC-Automation-FunctionalTest
 
 parameters:
  - name: image
